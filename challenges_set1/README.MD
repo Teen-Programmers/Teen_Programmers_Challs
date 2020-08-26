@@ -30,4 +30,5 @@ Creat a class `Store` with the following attributes:
    - `size` is `int`
    - `sales` is `list of ints`
    - `item_list` is `list of strs`
+
 complete the `add_item` method to allow the user to add an item to the list and complete the `average_pay` method to get an average of the `sales` list
