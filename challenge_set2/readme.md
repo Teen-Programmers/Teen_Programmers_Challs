@@ -14,4 +14,4 @@ Given an incomplete palindrome as a string, return the minimum letters needed to
 
 
 ### How to submit
-Either dm me your solution on discord, xo#1111 or fork this repo and add your solutions to the folder /solutions include your user in the codes comments and i will get back to you.
+Either dm me your solution on discord, xo#1111 or fork this repo then and add your solutions to the folder /solutions include your user in the codes comments and i will get back to you make sure you pull the repo with your solutions too.
